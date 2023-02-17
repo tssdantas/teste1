@@ -20,6 +20,7 @@ teste::teste(/* args */)
 int main () 
 {
     std::cout << " Oi. O pograma inciou ..." <<  std::endl;
+    std::cout << " segunda linha" <<  std::endl;
     teste instanciadeclasse;
 
     // i++
